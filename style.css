@@ -1,0 +1,30 @@
+body{
+    font: timesnewroman;
+    background-color: lightpink;
+    margin: 0.px;
+    padding: 0;
+    font-weight: bold;
+    }
+    .targeta{
+    }
+    .img{
+        width: 50%;
+        height:50px;
+        border: radius 25%;
+    }
+    hl{
+        color:purple;
+        front-size:22px;
+
+    }
+    .subtitulo{
+        color: hotpink;
+        font-weight: bold;
+    }
+    a{
+        display: block;
+        background-color: cyan;
+        color: aliceblue;
+
+
+    }
